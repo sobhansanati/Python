@@ -1,5 +1,5 @@
 
-kilo = float (input("enter the kilo"))\
+kilo = float (input("enter the kilo"))
 
 
 converting = 0.6214
